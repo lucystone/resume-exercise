@@ -1,14 +1,12 @@
 h4{
-  color:royalblue;
+  color:#5B8AC8;
   }
   
  h1 {
   font-size:1em;
  }
 
-h3 {
-  font-size:0.8em;
-}
+
   body { 
  background:FFFFFF;
   }
@@ -61,3 +59,15 @@ color: #5B8AC8;
 .float-left{
 float:left;
 }
+
+.front-end {
+font-size:0.8em;
+}
+
+.contacts{
+color:#5B8AC8;
+}
+
+
+
+

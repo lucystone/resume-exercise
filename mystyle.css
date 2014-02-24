@@ -1,0 +1,60 @@
+h4{
+  color:royalblue;
+  }
+  
+ h1,h3{
+  font-size:1em;
+ }
+
+  body { 
+ background:FFFFFF;
+  }
+
+  section{
+	clear:both;
+  overflow:hidden;
+  }
+
+  .left-panel { 
+  float:left;
+  width:300px;
+  color:#5B8AC8;
+  font-family: Helvetica;
+  }
+
+
+  .right-panel { 
+  float:right;
+  width:500px;
+  font-family: Helvetica;
+  }
+
+
+  #contact-info{
+  font-family:Helvetica;
+  font-size:18px;
+  float:right;
+  }
+  
+  #resume {
+  width:800px;
+  margin:50px auto;
+  border-top:20px solid #5B8AC8;
+  border-bottom:20px solid #5B8AC8;
+  padding:20px;
+  background:#FFFFFF;
+  }
+
+ #name {
+  font-size:30px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  }
+
+ a{
+text-decoration: none;
+color: #5B8AC8;
+}
+
+.float-left{
+float:left;
+}

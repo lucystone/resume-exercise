@@ -2,10 +2,13 @@ h4{
   color:royalblue;
   }
   
- h1,h3{
+ h1 {
   font-size:1em;
  }
 
+h3 {
+  font-size:0.8em;
+}
   body { 
  background:FFFFFF;
   }
